@@ -29,8 +29,3 @@ The COVID-19 pandemic has placed extreme stress and chaos onto the lives of work
 <img src="/images/Wireframes6.png" width="25%">
 <img src="/images/Wireframes7.png" width="25%">
 <img src="/images/Wireframes8.png" width="25%">
-
-<img src="/images/Wireframes9.png" width="25%">
-<img src="/images/Wireframes10.png" width="25%">
-<img src="/images/Wireframes11.png" width="25%">
-
