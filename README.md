@@ -9,23 +9,11 @@ The COVID-19 pandemic has placed extreme stress and chaos onto the lives of work
 
 ## App Walkthrough
 ### High Fidelity Wireframes
-<img src="/images/Photo1.png" width="25%">
-<img src="/images/Photo2.png" width="25%">
-<img src="/images/Photo3.png" width="25%">
-<img src="/images/Photo4.png" width="25%">
+<img src="/images/Photo1.png" width="25%"><img src="/images/Photo2.png" width="25%"><img src="/images/Photo3.png" width="25%"><img src="/images/Photo4.png" width="25%">
 
-<img src="/images/Photo5.png" width="25%">
-<img src="/images/Photo6.png" width="25%">
-<img src="/images/Photo7.png" width="25%">
-<img src="/images/Photo8.png" width="25%">
+<img src="/images/Photo5.png" width="25%"><img src="/images/Photo6.png" width="25%"><img src="/images/Photo7.png" width="25%"><img src="/images/Photo8.png" width="25%">
 
 ### Low Fidelity Wireframes
-<img src="/images/Wireframes1.png" width="25%">
-<img src="/images/Wireframes2.png" width="25%">
-<img src="/images/Wireframes3.png" width="25%">
-<img src="/images/Wireframes4.png" width="25%">
+<img src="/images/Wireframes1.png" width="25%"><img src="/images/Wireframes2.png" width="25%"><img src="/images/Wireframes3.png" width="25%"><img src="/images/Wireframes4.png" width="25%">
 
-<img src="/images/Wireframes5.png" width="25%">
-<img src="/images/Wireframes6.png" width="25%">
-<img src="/images/Wireframes7.png" width="25%">
-<img src="/images/Wireframes8.png" width="25%">
+<img src="/images/Wireframes5.png" width="25%"><img src="/images/Wireframes6.png" width="25%"><img src="/images/Wireframes7.png" width="25%"><img src="/images/Wireframes8.png" width="25%">
